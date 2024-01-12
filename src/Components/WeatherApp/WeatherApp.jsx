@@ -12,7 +12,7 @@ import wind_icon from '../Assets/wind.png';
 
 const WeatherApp = () => {
 
-    let api_key = "dd94f859a0e52d6e4767fddf735f04a7";
+    let api_key = "8f0f6295dfafb582d893b1a58047021b";
 
     const [wicon,setWicon] = useState(cloud_icon);
 
